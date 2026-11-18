@@ -24,6 +24,12 @@ I am a **Backend Software Engineer** focused on designing and building reliable,
 
 ---
 
+### 🚀 Featured Open-Source Projects
+
+- **[AS_FIT](https://github.com/salims0110/as_fit)** — Local-first Personal Metabolic Telemetry & Closed-Loop Feedback Control System built with Next.js 16, TypeScript, Drizzle ORM, PostgreSQL, and Docker. Features pure domain modeling (`src/domain/`), explainable insights rules, and open-source contribution workflows (`MIT`).
+
+---
+
 ### 📊 GitHub Overview
 
 - **Role**: Backend Software Engineer
